@@ -1,0 +1,68 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto", sans-serif
+}
+
+.container-cv {
+    background-color: #F1F1F1;
+}
+
+.col-cv {
+    margin-top: 1%;
+}
+
+.col-cv-2 {
+    margin-top: 1%;
+}
+.col-cv-4 {
+    margin-top: 1%;
+}
+
+.col-cv-footer {
+    background-color:#0077B5;
+    text-align: center;
+    color: white;
+    height: 80px;
+    margin-top: 1%;
+}
+.col-cv-footer i
+{
+    font-size: 20px;
+    padding: 3px;
+}
+
+.profile-container {
+    box-shadow: 5px 5px 15px #aaaaaa;
+}
+
+.Education-container {
+    box-shadow: 5px 5px 15px #aaaaaa;
+    
+}
+
+.skill-container {
+    box-shadow: 5px 5px 15px #aaaaaa;
+    margin-top: 1%;
+}
+
+.project-container {
+    box-shadow: 5px 5px 15px #aaaaaa;
+    
+    margin-top: 1%;
+}
+
+.progress-color {
+    background-color: #0077B5;
+    color: white;
+    text-align: center;
+}
+.icon-color
+{
+    color: #0077B5;
+}
